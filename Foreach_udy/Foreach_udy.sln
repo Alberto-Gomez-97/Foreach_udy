@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foreach_udy", "Foreach_udy\Foreach_udy.csproj", "{0F608F85-B83D-4428-8CB1-52CA1E1A8580}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F608F85-B83D-4428-8CB1-52CA1E1A8580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F608F85-B83D-4428-8CB1-52CA1E1A8580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F608F85-B83D-4428-8CB1-52CA1E1A8580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F608F85-B83D-4428-8CB1-52CA1E1A8580}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88AC2FB6-2188-4F9D-A00B-13B5C504EB2E}
+	EndGlobalSection
+EndGlobal
